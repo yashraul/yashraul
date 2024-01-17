@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashraul
-- 👀 I’m interested in ...web developing
-- 🌱 I’m currently learning ...machine learning in phython
+- 👀 I’m interested in ...offensive security.
+- 🌱 I’m currently learning ...Defensive security
 - 💞️ I’m looking to collaborate on ...internships and projects
 - 📫 How to reach me ...raulyash57@gmail.com
 
