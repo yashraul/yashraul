@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashraul
-- 👀 I’m interested in ...offensive security.
-- 🌱 I’m currently learning ...Defensive security
-- 💞️ I’m looking to collaborate on ...internships and projects
+- 👀 I’m interested in AWS cloud and Cloud security.
+- 🌱 I’m currently mastering cloud
+- 💞️ I’m looking to collaborate on projects related to Network Infrastructure
 - 📫 How to reach me ...raulyash57@gmail.com
 
 <!---
